@@ -1,0 +1,254 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+
+.hed{
+	width: 100%;
+	height: 70px;
+	
+}
+
+.left{
+	width: 15%;
+	height: 70px;
+	font-family: "Roboto", sans-serif;
+    display: inline-block;
+    line-height: 70px;
+    
+}
+
+.left img{
+	
+    vertical-align: middle;
+    margin-left: 15px;
+    margin-top: 10px;
+
+}
+
+
+.left span{
+	font-size: 22px;
+    font-weight: bold;
+    padding-top: 10px;
+    color: #1c1e2e;
+}
+
+
+
+.banner{
+	width: 100%;
+
+}
+
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	
+}
+
+
+.main{
+	height: 100vh;
+	width: 100%;
+	background-color: black;
+	float: left;
+}
+
+
+
+.main01{
+	height: 100vh;
+	width: 60%;
+	background-color: #fff;
+	float: left;
+}
+
+
+.main02{
+	height: 100vh;
+	width: 40%;
+	background-color: #fff;
+	float: right;
+}
+
+
+.sub-man{
+	padding-top: 85px;
+	position: relative;
+}
+
+
+
+
+
+.sub-man h1{
+font-family: 'Quicksand', sans-serif;
+color: #1c1e2e;
+font-size: 2.5rem;
+font-weight: bold;
+margin-left: 15px;
+line-height: 48px;
+}
+
+.sub-man p{
+font-family: "Roboto", sans-serif;
+font-size: 20px;
+
+line-height: 30px;
+margin-bottom: 24px;
+text-align: left;
+margin: 15px;
+color: #66527d;
+}
+
+
+.baton{
+	margin: 20px 10px;
+}
+
+.baton button{
+	padding: 14px 37px;
+	border-radius: 26px;
+	outline: none;
+	border: none;
+	border: 2px solid #ed6524; 
+	font-size: 18px;
+	color:white;
+
+
+}
+
+.baton .one{
+	background-color: #ed6524;
+}
+
+
+.baton .two{
+	color: #ed6524;
+	margin-left: 5px;
+	background-color: white;
+}
+
+
+.baton .two:hover{
+	color: white;
+	margin-left: 5px;
+	background-color: #ed6524;
+
+}
+.co-tex{
+	height: 120px;
+	width: 90%;
+	background-color: #f6f8fc;
+	margin:30px 15px;
+    position: absolute;
+    border-left: 4px solid #f5a782;
+   
+}
+
+.co-tex p{
+	font-style: italic;
+	font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    padding: 9px 10px;
+    line-height: 21px;
+}
+
+
+
+
+.coner-box{
+	height: 25px;
+	width: 25px;
+	background-color: #f6f8fc;
+	
+	margin: 0px 20px;
+	transform: rotate(45deg);
+    position: relative;
+}
+
+
+.main02-im img{
+	width: 95%;
+	margin-top: 40px;
+	
+}
+
+
+.main02-tex{
+	width: 100%;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+    font-size: 16px
+}
+
+
+
+.main02-tex a:hover{
+	color: #ed6524;
+}
+
+.oo{
+	height: 115px;
+	width: 115px;
+	background-color: #5cb377;
+	text-align: center;
+	color: white;
+	border-radius: 50%;
+	font-size:17px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 115px;
+    position: absolute;
+    margin: 0px 305px;
+
+   
+}
+
+.main02-im{
+	position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
